@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpotifyUI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="begendigin_sarkılar">Beğendiğin Şarkılar</string>
+    <string name="listimage">listImage</string>
+    <string name="devam_et">Kaldığın yerden devam et</string>
+    <string name="hot_hits">Hot Hits Türkiye</string>
+    <string name="desc1">Dinlemekten vazgeçemediklerin ve en yeni hitler.</string>
+    <string name="en_sevdigin_sanatcilar">En sevdiğin sanatçılar</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="ara">Ara</string>
+    <string name="kitapl_n">Kitaplığın</string>
+    <string name="notification">notification</string>
+    <string name="history">history</string>
+    <string name="setting">setting</string>
+</resources>

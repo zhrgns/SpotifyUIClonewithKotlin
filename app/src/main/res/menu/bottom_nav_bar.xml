@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_outline"
+        android:title="@string/anasayfa"
+        />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search_solid"
+        android:title="@string/ara" />
+    <item
+        android:id="@+id/library"
+        android:icon="@drawable/library_solid"
+        android:title="@string/kitapl_n" />
+</menu>
