@@ -17,7 +17,7 @@ In this project, i utilized the following components and elements:
 
 ## Installation
 
-1. Clone this repository: `git clone <repository_url>`
+1. Clone this repository.
 2. Open Android Studio.
 3. Click on "Open an existing Android Studio project" from the file menu and select the cloned directory.
 4. Start an emulator or connect an Android device. (I prefer Pixel 2)
